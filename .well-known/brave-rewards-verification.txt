@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: narayantripathi.com.np
+Token: b9d5da3f2b45f9f31bdafdcaf823f0f1fb86b0e4cd83cfbd9704052f3f030ad1
